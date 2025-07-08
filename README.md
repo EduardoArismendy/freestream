@@ -33,8 +33,6 @@ El sitio original busca facilitar encontrar y ver contenido gratuito, con una in
 ## 🛠️ Instalación local
 
 ```bash
-git clone https://github.com/tu-usuario/freestream2.git
-cd freestream2
-npm install
-npm run dev
+git clone https://github.com/EduardoArismendy/freestream.git
+
 
