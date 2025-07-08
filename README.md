@@ -1,6 +1,6 @@
 # 🎥 FreeStream2
 
-**FreeStream2** es una plataforma web que permite explorar películas y series disponibles de forma gratuita a través de distintos servicios de streaming. Está basada en [freestream2.netlify.app](https://freestream2.netlify.app) y pensada como un punto de partida para crecer con nuevas funciones, aportaciones y mejoras.
+**FreeStream2** es una página web básica que permite explorar canales de tv disponibles de forma gratuita a través de distintos servicios de streaming. Está basada en [freestream2.netlify.app](https://freestream2.netlify.app) y pensada como un punto de partida para crecer con nuevas funciones, aportaciones y mejoras.
 
 ---
 
